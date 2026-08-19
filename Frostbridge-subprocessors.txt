@@ -1,6 +1,6 @@
 ﻿Subprocessor List
 Effective Date: 08/07/2026
-This page identifies third-party subprocessors that Frostbridge may use to provide, secure, support, host, monitor, analyze, or improve the Services. This list should be completed and kept current before publication.
+This page identifies third-party subprocessors that Frostbridge may use to provide, secure, support, host, monitor, analyze, or improve the Services.
 Subprocessors
 Subprocessor
 	Entity / Legal name
@@ -47,8 +47,6 @@ Subprocessor
 	
 
 Updates
-Frostbridge may update this Subprocessor List from time to time. Customers that require notice of new subprocessors should subscribe to [insert notification mechanism] or monitor this page.
+Frostbridge may update this Subprocessor List from time to time. Customers that require notice of new subprocessors should email privacy@frostbridge.ai with the subject "Subprocessor Updates" to subscribe, or monitor this page.
 Objections
-Where required by the Customer Agreement or Data Processing Addendum, Customer may object to a new subprocessor by sending written notice to [privacy@frostbridge.ai] within the stated objection period.
-Notes before publishing
-Remove any placeholder rows that do not apply. Add any production tools that process Customer Data, support data, billing data, account data, telemetry, logs, analytics, AI model requests, or backups.
+Where required by the Customer Agreement or Data Processing Addendum, Customer may object to a new subprocessor by sending written notice to privacy@frostbridge.ai within the stated objection period.
