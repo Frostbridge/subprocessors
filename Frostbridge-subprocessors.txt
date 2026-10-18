@@ -44,6 +44,12 @@ Subprocessor
 	United States
 	Repo URL / metadata requested by customer; publicly available repo contents fetched for analysis
 	github.com
+	Sentry
+	Functional Software, Inc. (Sentry)
+	Error and crash reporting, performance telemetry for the dashboard and API
+	United States (ingest.us.sentry.io)
+	Error events and stack traces, request path and status, browser/OS/runtime metadata, pseudonymous developer and org identifiers; no names, emails or session content
+	sentry.io
 	
 
 Updates
