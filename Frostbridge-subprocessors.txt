@@ -1,5 +1,5 @@
 ﻿Subprocessor List
-Effective Date: 08/07/2026
+Effective Date: 10/18/2026
 This page identifies third-party subprocessors that Frostbridge may use to provide, secure, support, host, monitor, analyze, or improve the Services.
 Subprocessors
 Subprocessor
