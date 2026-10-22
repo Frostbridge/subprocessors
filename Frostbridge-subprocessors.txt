@@ -1,5 +1,5 @@
 ﻿Subprocessor List
-Effective Date: 10/18/2026
+Effective Date: 10/22/2026
 This page identifies third-party subprocessors that Frostbridge may use to provide, secure, support, host, monitor, analyze, or improve the Services.
 Subprocessors
 Subprocessor
@@ -50,6 +50,12 @@ Subprocessor
 	United States (ingest.us.sentry.io)
 	Error events and stack traces, request path and status, browser/OS/runtime metadata, pseudonymous developer and org identifiers; no names, emails or session content
 	sentry.io
+	Google Analytics
+	Google LLC
+	Product usage analytics for the Frostbridge dashboard (page views and product events); Google signals and advertising personalization disabled
+	United States / global infrastructure
+	Pseudonymous developer and org identifiers, role and plan, page paths with tokens and query strings removed, site hostname, browser/device metadata, cookie identifiers; no names, emails, org names or session content
+	marketingplatform.google.com/about/analytics
 	
 
 Updates
